@@ -1,0 +1,5 @@
+# Environment variables
+.env
+
+# JetBrains IDEs (IntelliJ IDEA, WebStorm, etc.)
+.idea/
