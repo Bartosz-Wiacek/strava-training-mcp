@@ -1,5 +1,6 @@
-# Environment variables
+node_modules/
+dist/
 .env
-
-# JetBrains IDEs (IntelliJ IDEA, WebStorm, etc.)
 .idea/
+*.log
+profiles/
